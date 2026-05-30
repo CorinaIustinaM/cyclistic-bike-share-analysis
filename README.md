@@ -1,20 +1,20 @@
-\# Cyclistic Bike Share Analysis
+# Cyclistic Bike Share Analysis
 
 
 
-\## Project Overview
+## Project Overview
 
 Analysis of 12 months of historical trip data in order to design a new marketing strategy to convert casual riders into annual members for Cyclistic, a bike-share company in Chicago.
 
 
 
-\## Business Task
+## Business Task
 
 How does the behavior of annual members differ from that of casual riders?
 
 
 
-\## Dataset
+## Dataset
 
 * 12 months of historical Cyclistic trip data
 * May 2025 – April 2026
@@ -22,13 +22,13 @@ How does the behavior of annual members differ from that of casual riders?
 
 
 
-\## Data Source
+## Data Source
 
 Historical trip data provided by Motivate International Inc. for the Cyclistic bike-share program.
 
 
 
-\## Tools Used
+## Tools Used
 
 * Excel
 * Power Query
@@ -38,7 +38,7 @@ Historical trip data provided by Motivate International Inc. for the Cyclistic b
 
 
 
-\## Data Cleaning
+## Data Cleaning
 
 * Excluded station and coordinate fields due to missing values
 * Standardized datetime formats
@@ -50,7 +50,7 @@ Historical trip data provided by Motivate International Inc. for the Cyclistic b
 
 
 
-\## Analysis
+## Analysis
 
 Three Pivot Tables were created to analyze:
 
@@ -62,7 +62,7 @@ The analysis focused on identifying behavioral differences between casual riders
 
 
 
-\## Key Findings
+## Key Findings
 
 * Casual riders use the service less frequently but spend significantly more time per ride than annual members
 * Annual members complete a significantly higher number of trips
@@ -74,13 +74,13 @@ The analysis suggests that the greatest opportunity for membership growth lies a
 
 
 
-\## Business Impact
+## Business Impact
 
 The analysis indicates that casual riders represent the most promising target segment for membership conversion campaigns due to their strong engagement during recreational and weekend trips.
 
 
 
-\## Visualizations
+## Visualizations
 
 The project includes visual analysis of:
 
@@ -91,7 +91,7 @@ The project includes visual analysis of:
 
 
 
-\## Recommendations
+## Recommendations
 
 Based on the analysis, the following recommendations are proposed:
 
@@ -101,7 +101,7 @@ Based on the analysis, the following recommendations are proposed:
 
 
 
-\## Files
+## Files
 
 * Cyclistic\_Bike-share\_Report.pdf
 * Cyclistic\_Bike-share\_Presentation.pdf
