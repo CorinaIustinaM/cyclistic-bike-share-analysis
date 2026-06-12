@@ -92,7 +92,7 @@ The final dashboard summarizes the main findings of the analysis through:
 - Key insights
 - Business recommendations
 
-![Cyclistic Dashboard](dashboard_screenshot.png)
+<img src="dashboard_screenshot.png" width="850">
 
 
 ## Recommendations
@@ -109,7 +109,7 @@ Based on the analysis, the following recommendations are proposed:
 The analysis shows that casual riders exhibit longer ride durations and stronger weekend usage patterns, suggesting that recreational riders represent the most promising segment for membership conversion initiatives.
 
 
-## Files
+## Project Deliverables
 
 * Cyclistic\_Bike-share\_Report.pdf
 * Cyclistic\_Bike-share\_Presentation.pdf
