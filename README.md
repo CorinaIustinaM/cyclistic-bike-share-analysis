@@ -80,15 +80,19 @@ The analysis indicates that casual riders represent the most promising target se
 
 
 
-## Visualizations
+## Dashboard
 
-The project includes visual analysis of:
+The final dashboard summarizes the main findings of the analysis through:
 
-* Average ride length by weekday
-* Number of rides by weekday
-* Number of rides by month
-* Ride share by customer type
+- KPI overview
+- Ride share by customer type
+- Monthly ride trends
+- Weekly ride patterns
+- Average ride duration analysis
+- Key insights
+- Business recommendations
 
+![Cyclistic Dashboard](dashboard_screenshot.png)
 
 
 ## Recommendations
@@ -99,6 +103,10 @@ Based on the analysis, the following recommendations are proposed:
 * Offer seasonal membership discounts: introduce discounted seasonal membership plans targeted at casual riders during high-activity months.
 * Launch weekend conversion campaigns: since casual rider activity peaks during weekends, targeted weekend promotions could encourage casual riders to become annual members.
 
+
+## Conclusion
+
+The analysis shows that casual riders exhibit longer ride durations and stronger weekend usage patterns, suggesting that recreational riders represent the most promising segment for membership conversion initiatives.
 
 
 ## Files
