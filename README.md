@@ -113,6 +113,6 @@ The analysis shows that casual riders exhibit longer ride durations and stronger
 
 * Cyclistic\_Bike-share\_Report.pdf
 * Cyclistic\_Bike-share\_Presentation.pdf
-
+* dashboard_screenshot.png
 
 
